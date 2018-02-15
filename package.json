@@ -1,0 +1,24 @@
+{
+  "name": "chat-serv",
+  "version": "0.0.0",
+  "description": "Simple Node.js chat backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkSundahl/chat-serve.git"
+  },
+  "author": "MJS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkSundahl/chat-serve/issues"
+  },
+  "homepage": "https://github.com/MarkSundahl/chat-serve#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2"
+  }
+}
