@@ -1,0 +1,13 @@
+Identity?
+
+socket.io
+  join
+    catch up
+    subscribe
+  send
+  receive
+  
+db
+  save
+  load
+    specific number?
